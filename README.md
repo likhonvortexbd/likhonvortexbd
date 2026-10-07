@@ -1,11 +1,13 @@
-# Hi there 👋
+# ┏━━━━━━━⍟ ❛ ━━━━･⌁ 𝐋𝐈𝐊𝐇𝐎𝐍 ⌁･━━━━
 
-**Likhon Sheikh** · AI 🤖 · Code ⚡ · Open Source 🛠️
+<img src="https://raw.githubusercontent.com/DenverCoder1/readme-typing-svg/main/demo/preview.gif" width="100%">
 
-Building **AI, LLMs, agents & modern web apps**.
+### ⚡ AI · LLMs · Code · Open Source
 
-> 🚀 Turning rekt into, one line at a time!
+> Building AI things. Breaking bugs. Shipping anyway.
 
-📡 **Telegram:** [@SheikhCoders](https://t.me/SheikhCoders)
+<img src="https://github-readme-stats.vercel.app/api?username=likhonvortexbd&show_icons=true&hide_border=true&theme=transparent" width="100%">
 
-`AI` · `LLMs` · `Agents` · `TypeScript` · `Next.js` · `Open Source`
+[![Telegram](https://img.shields.io/badge/Telegram-@SheikhCoders-000?style=flat-square&logo=telegram)](https://t.me/SheikhCoders)
+
+> ❛ **Turning rekt into, one line at a time!** ❜
