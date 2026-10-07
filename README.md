@@ -1,4 +1,4 @@
-### ⚡ AI · LLMs · Code · Open Source
+### ⚡Quiet places, loud mind. ⚡
 
 > Building AI things. Breaking bugs. Shipping anyway.
 
