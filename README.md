@@ -1,7 +1,3 @@
-# ┏━━━━━━━⍟ ❛ ━━━━･⌁ 𝐋𝐈𝐊𝐇𝐎𝐍 ⌁･━━━━
-
-<img src="https://raw.githubusercontent.com/DenverCoder1/readme-typing-svg/main/demo/preview.gif" width="100%">
-
 ### ⚡ AI · LLMs · Code · Open Source
 
 > Building AI things. Breaking bugs. Shipping anyway.
