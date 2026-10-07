@@ -6,4 +6,4 @@
 
 [![Telegram](https://img.shields.io/badge/Telegram-@SheikhCoders-000?style=flat-square&logo=telegram)](https://t.me/SheikhCoders)
 
-> ❛ **Turning rekt into, one line at a time!** ❜
+> ❛ **Turning 'rekt' into 'resolved', one line at a time.** ❜
